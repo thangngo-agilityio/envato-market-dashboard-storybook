@@ -1,0 +1,41 @@
+---
+// Variable types
+export enum TYPE_HEADING {
+  PRIMARY = 'primary',
+  SECONDARY = 'secondary',
+  ELEMENTARY = 'elementary',
+}
+// Tag format
+export enum TAG_HEADING {
+  H2 = 'h2',
+  H3 = 'h3',
+  H4 = 'h4',
+}
+
+const styleHeading = {
+  primary: 'text-3xl leading-10 md:text-4xl md:leading-giant',
+  secondary: 'text-base leading-huge',
+  elementary: 'text-base text-primary leading-base',
+};
+
+export type Props = {
+  className?: string;
+  tag?: TAG_HEADING;
+  variant?: TYPE_HEADING;
+  text?: string;
+};
+
+const {
+  variant = TYPE_HEADING.PRIMARY,
+  tag = TAG_HEADING.H2,
+  className = '',
+  text = '',
+} = Astro.props;
+
+const Heading = tag;
+const styles: string = styleHeading[variant];
+---
+
+<Heading class={`font-primary text-primary ${styles} ${className}`}>
+  {text}
+</Heading>

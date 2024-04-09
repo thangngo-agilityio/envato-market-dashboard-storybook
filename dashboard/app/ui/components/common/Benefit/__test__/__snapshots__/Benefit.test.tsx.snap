@@ -1,0 +1,159 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Benefit render renders Benefit with pathName is Login 1`] = `
+<div>
+  <div
+    class="css-z86n61"
+  >
+    <img
+      alt="This is sign in image"
+      data-nimg="1"
+      decoding="async"
+      height="596"
+      loading="lazy"
+      src="/icons/signin.svg"
+      style="color: transparent; background-size: cover; background-position: 50% 50%; background-repeat: no-repeat;"
+      width="699"
+    />
+    <div
+      class="css-1saybp7"
+    >
+      <img
+        alt="This is square image"
+        data-nimg="fill"
+        decoding="async"
+        loading="lazy"
+        src="/icons/square.svg"
+        style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; color: transparent; background-size: cover; background-position: 50% 50%; background-repeat: no-repeat;"
+      />
+    </div>
+    <div
+      class="css-1uw9kux"
+    >
+      <img
+        alt="This is vline image"
+        data-nimg="fill"
+        decoding="async"
+        loading="lazy"
+        src="/icons/vline.svg"
+        style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; color: transparent; background-size: cover; background-position: 50% 50%; background-repeat: no-repeat;"
+      />
+    </div>
+    <div
+      class="css-he7guj"
+    >
+      <img
+        alt="This is dotted image"
+        data-nimg="fill"
+        decoding="async"
+        loading="lazy"
+        src="/icons/dotted.svg"
+        style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; color: transparent; background-size: cover; background-position: 50% 50%; background-repeat: no-repeat;"
+      />
+    </div>
+    <div
+      class="css-18anm8l"
+    >
+      <h2
+        class="chakra-heading css-1qw8f9f"
+      >
+        Speady, Easy and Fast
+      </h2>
+      <p
+        class="chakra-text css-1omtyor"
+      >
+        BankCo. help you set saving goals, earn cash back offers, Go to disclaimer for more details and get paychecks up to two days early. Get a
+        <span
+          class="chakra-text css-xety8z"
+        >
+          $20
+        </span>
+        bonus when you receive qualifying direct deposits
+      </p>
+    </div>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</div>
+`;
+
+exports[`Benefit render renders Benefit with pathName is SignUp 1`] = `
+<div>
+  <div
+    class="css-z86n61"
+  >
+    <img
+      alt="This is sign up image"
+      data-nimg="1"
+      decoding="async"
+      height="480"
+      loading="lazy"
+      src="/icons/signup.svg"
+      style="color: transparent; background-size: cover; background-position: 50% 50%; background-repeat: no-repeat;"
+      width="699"
+    />
+    <div
+      class="css-1saybp7"
+    >
+      <img
+        alt="This is square image"
+        data-nimg="fill"
+        decoding="async"
+        loading="lazy"
+        src="/icons/square.svg"
+        style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; color: transparent; background-size: cover; background-position: 50% 50%; background-repeat: no-repeat;"
+      />
+    </div>
+    <div
+      class="css-1uw9kux"
+    >
+      <img
+        alt="This is vline image"
+        data-nimg="fill"
+        decoding="async"
+        loading="lazy"
+        src="/icons/vline.svg"
+        style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; color: transparent; background-size: cover; background-position: 50% 50%; background-repeat: no-repeat;"
+      />
+    </div>
+    <div
+      class="css-he7guj"
+    >
+      <img
+        alt="This is dotted image"
+        data-nimg="fill"
+        decoding="async"
+        loading="lazy"
+        src="/icons/dotted.svg"
+        style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; color: transparent; background-size: cover; background-position: 50% 50%; background-repeat: no-repeat;"
+      />
+    </div>
+    <div
+      class="css-18anm8l"
+    >
+      <h2
+        class="chakra-heading css-1qw8f9f"
+      >
+        Speady, Easy and Fast
+      </h2>
+      <p
+        class="chakra-text css-1omtyor"
+      >
+        BankCo. help you set saving goals, earn cash back offers, Go to disclaimer for more details and get paychecks up to two days early. Get a
+        <span
+          class="chakra-text css-xety8z"
+        >
+          $20
+        </span>
+        bonus when you receive qualifying direct deposits
+      </p>
+    </div>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</div>
+`;

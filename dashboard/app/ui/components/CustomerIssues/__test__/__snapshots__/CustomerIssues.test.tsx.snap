@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CustomerIssues render Should render match with snapshot. 1`] = `
+<div>
+  <div
+    class="css-1wgt4up"
+  >
+    <p
+      class="chakra-text css-v36fx7"
+    >
+      Recent Support
+    </p>
+    <button
+      aria-label="btn load-more"
+      class="chakra-button css-19sn5a1"
+      type="button"
+    >
+      Load More
+    </button>
+  </div>
+</div>
+`;

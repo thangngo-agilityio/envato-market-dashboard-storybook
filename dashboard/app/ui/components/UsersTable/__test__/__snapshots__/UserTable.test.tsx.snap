@@ -1,0 +1,350 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserTable component should renders correctly 1`] = `
+<div>
+  <div
+    class="chakra-table__container css-phaltv"
+  >
+    <table
+      class="chakra-table css-i6bazn"
+    >
+      <thead
+        class="css-0"
+      >
+        <tr
+          class="css-0"
+        />
+      </thead>
+      <tbody
+        class="css-0"
+      >
+        <tr
+          class="css-4g6ai3"
+          data-testid="table-row"
+        >
+          <td
+            class="css-mzqydp"
+          >
+            <div
+              class="css-1h2sv0j"
+            >
+              <div
+                class="css-10lpwxk"
+              >
+                <img
+                  alt="Image of Abdur Rohman"
+                  data-nimg="fill"
+                  decoding="async"
+                  fetchpriority="high"
+                  loading="eager"
+                  sizes="100vw"
+                  src="/_next/image?url=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F5556%2F5556468.png&w=3840&q=75"
+                  srcset="/_next/image?url=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F5556%2F5556468.png&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F5556%2F5556468.png&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F5556%2F5556468.png&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F5556%2F5556468.png&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F5556%2F5556468.png&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F5556%2F5556468.png&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F5556%2F5556468.png&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F5556%2F5556468.png&w=3840&q=75 3840w"
+                  style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; object-fit: cover; color: transparent; background-size: cover; background-position: 50% 50%; background-repeat: no-repeat;"
+                />
+              </div>
+              <div
+                class="css-1rr4qq7"
+              >
+                <h4
+                  class="chakra-text css-53tbcl"
+                >
+                  Abdur Rohman
+                </h4>
+                <a
+                  class="chakra-text css-1axauld"
+                  href="mailto:test@gmail.com"
+                >
+                  test@gmail.com
+                </a>
+              </div>
+            </div>
+          </td>
+          <td
+            class="css-1vzozuw"
+          >
+            <p
+              class="chakra-text css-0"
+            >
+              Jan 01, 1970
+            </p>
+          </td>
+          <td
+            class="css-dq40i2"
+          >
+            <span
+              class="chakra-badge css-1nho4fa"
+              data-testid="status"
+            >
+              Unlock
+            </span>
+          </td>
+          <td
+            class="css-1onobe"
+          >
+            <a
+              class="chakra-button css-1d6hsfg"
+              href="inbox?id=1"
+            >
+              Message
+            </a>
+          </td>
+          <td
+            class="css-lepxbj"
+          >
+            <button
+              aria-controls="menu-list-:r7:"
+              aria-expanded="false"
+              aria-haspopup="menu"
+              class="chakra-button chakra-menu__menu-button css-14rg285"
+              id="menu-button-:r7:"
+              type="button"
+            >
+              <span
+                class="css-xl71ch"
+              >
+                <button
+                  aria-label="This is the icon action"
+                  class="chakra-button css-1x5hsk6"
+                  data-testid="dot-icon"
+                  type="button"
+                >
+                  <svg
+                    aria-hidden="true"
+                    fill="none"
+                    focusable="false"
+                    height="4"
+                    width="18"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M8 2a1 1 0 1 0 2 0 1 1 0 0 0-2 0ZM1 2a1 1 0 1 0 2 0 1 1 0 0 0-2 0ZM15 2a1 1 0 1 0 2 0 1 1 0 0 0-2 0Z"
+                      stroke="#A0AEC0"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                    />
+                  </svg>
+                </button>
+              </span>
+            </button>
+            <div
+              class="css-0"
+              style="visibility: hidden; position: absolute; min-width: max-content; inset: 0 auto auto 0;"
+            >
+              <div
+                aria-orientation="vertical"
+                class="chakra-menu__menu-list css-6dyv79"
+                id="menu-list-:r7:"
+                role="menu"
+                style="transform-origin: var(--popper-transform-origin); opacity: 0; visibility: hidden; transform: scale(0.8) translateZ(0);"
+                tabindex="-1"
+              >
+                <button
+                  class="chakra-menu__menuitem css-bjyw8u"
+                  data-index="0"
+                  id="menu-list-:r7:-menuitem-:r8:"
+                  role="menuitem"
+                  tabindex="-1"
+                  type="button"
+                >
+                  <div
+                    class="css-1s0smvb"
+                  >
+                    <svg
+                      class="chakra-icon css-xdl7pd"
+                      data-testid="lock-unlock-icon"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M19.5,9.5h-.75V6.75a6.75,6.75,0,0,0-13.5,0V9.5H4.5a2,2,0,0,0-2,2V22a2,2,0,0,0,2,2h15a2,2,0,0,0,2-2V11.5A2,2,0,0,0,19.5,9.5Zm-9.5,6a2,2,0,1,1,3,1.723V19.5a1,1,0,0,1-2,0V17.223A1.994,1.994,0,0,1,10,15.5ZM7.75,6.75a4.25,4.25,0,0,1,8.5,0V9a.5.5,0,0,1-.5.5H8.25a.5.5,0,0,1-.5-.5Z"
+                        fill="currentColor"
+                      />
+                    </svg>
+                  </div>
+                </button>
+              </div>
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div
+    class="css-164r41r"
+  >
+    <div
+      class="css-1pjv9dc"
+      data-testid="pagination"
+    >
+      <div
+        class="css-hswnv9"
+      >
+        <p
+          class="chakra-text css-10v9eea"
+        >
+          Show result:
+        </p>
+        <div
+          class="css-18gn0nf"
+        >
+          <button
+            aria-controls="menu-list-:ra:"
+            aria-expanded="false"
+            aria-haspopup="menu"
+            class="chakra-button chakra-menu__menu-button css-a9jpru"
+            id="menu-button-:ra:"
+            type="button"
+          >
+            <span
+              class="css-xl71ch"
+            >
+              <div
+                class="css-1l4w6pd"
+              >
+                <p
+                  class="chakra-text css-nyal52"
+                >
+                  10
+                </p>
+                <div
+                  class="css-1x77umq"
+                >
+                  <svg
+                    fill="none"
+                    height="15"
+                    stroke="#A0AEC0"
+                    style="transform: rotate(undefined);"
+                    viewBox="0 0 18 15"
+                    width="18"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M7 10L12 14L17 10"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </span>
+          </button>
+          <div
+            class="css-0"
+            style="visibility: hidden; position: absolute; inset: 0 auto auto 0;"
+          >
+            <div
+              aria-orientation="vertical"
+              class="chakra-menu__menu-list css-149xq91"
+              id="menu-list-:ra:"
+              role="menu"
+              style="transform-origin: var(--popper-transform-origin); opacity: 0; visibility: hidden; transform: scale(0.8) translateZ(0);"
+              tabindex="-1"
+            >
+              <button
+                class="chakra-menu__menuitem css-1oz22gy"
+                data-index="0"
+                id="menu-list-:ra:-menuitem-:rb:"
+                role="menuitem"
+                tabindex="-1"
+                type="button"
+              >
+                <p
+                  class="chakra-text css-1198d6z"
+                >
+                  10
+                </p>
+              </button>
+              <button
+                class="chakra-menu__menuitem css-1oz22gy"
+                data-index="1"
+                id="menu-list-:ra:-menuitem-:rc:"
+                role="menuitem"
+                tabindex="-1"
+                type="button"
+              >
+                <p
+                  class="chakra-text css-1198d6z"
+                >
+                  20
+                </p>
+              </button>
+              <button
+                class="chakra-menu__menuitem css-1oz22gy"
+                data-index="2"
+                id="menu-list-:ra:-menuitem-:rd:"
+                role="menuitem"
+                tabindex="-1"
+                type="button"
+              >
+                <p
+                  class="chakra-text css-1198d6z"
+                >
+                  50
+                </p>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="css-69i1ev"
+      >
+        <button
+          aria-label="btn-prev"
+          class="chakra-button css-1nz9y48"
+          data-testid="prev-button"
+          disabled=""
+          type="button"
+        >
+          <svg
+            fill="none"
+            height="24"
+            stroke="#A0AEC0"
+            style="transform: rotate(90deg);"
+            viewBox="0 0 24 24"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M7 10L12 14L17 10"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+            />
+          </svg>
+        </button>
+        <div
+          class="css-70qvj9"
+        />
+        <button
+          aria-label="btn-next"
+          class="chakra-button css-1ljbk21"
+          data-testid="next-button"
+          disabled=""
+          type="button"
+        >
+          <svg
+            fill="none"
+            height="24"
+            stroke="#A0AEC0"
+            style="transform: rotate(-90deg);"
+            viewBox="0 0 24 24"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M7 10L12 14L17 10"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+            />
+          </svg>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

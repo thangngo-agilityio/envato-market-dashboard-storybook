@@ -1,0 +1,22 @@
+---
+// Components
+import { MainLayout } from '@app/layouts';
+import { Checkout as CheckoutPage } from '@app/components';
+
+// Utils
+import { getCart } from '@app/services';
+
+export const prerender = false;
+
+const cart = await getCart();
+const total: number = (await getCart()).reduce(
+  (result, { amount, quantity }) => result + amount * quantity,
+  0,
+);
+---
+
+<MainLayout>
+  <main class='p-4 md:py-[100px] nearXl:px-10'>
+    <CheckoutPage client:visible total={total} cart={cart} />
+  </main>
+</MainLayout>

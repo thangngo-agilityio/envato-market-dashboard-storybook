@@ -1,0 +1,17 @@
+@keyframes spinner {
+  from {
+    transform: translate(-50%, -50%) rotate(0deg);
+  }
+
+  to {
+    transform: translate(-50%, -50%) rotate(360deg);
+  }
+}
+
+@media only screen and (min-width: 1279px) {
+  .description img {
+    max-width: 240px;
+    height: auto;
+    object-fit: cover;
+  }
+}

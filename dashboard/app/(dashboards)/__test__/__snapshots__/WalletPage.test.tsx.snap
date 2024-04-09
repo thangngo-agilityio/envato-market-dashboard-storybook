@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dashboard render Should render match with snapshot. 1`] = `
+<div>
+  <div
+    class="css-et9gjv"
+  >
+    <div
+      class="css-zd4of5"
+    >
+      <div
+        class="css-6iskwu"
+      />
+    </div>
+    <div
+      class="css-gca1gs"
+    />
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</div>
+`;
