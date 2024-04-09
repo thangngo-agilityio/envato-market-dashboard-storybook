@@ -18,7 +18,7 @@ const meta: Meta<typeof RecentActivitiesTable> = {
           bgColor="background.component.primary"
           borderRadius={8}
           px={6}
-          py={5}
+          py={6}
         >
           <Story />
         </Box>
